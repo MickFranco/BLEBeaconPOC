@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BeaconPOC</string>
+    <string name="start_scan">Start scan</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="turn_off">Turn Off</string>
+    <string name="password">Password</string>
+    <string name="stop_scan">Stop Scan</string>
+    <string name="tracking_beacons">Tracking Beacons</string>
+    <string name="out_of_range">Beacon out of range</string>
+</resources>
